@@ -1,4 +1,4 @@
-# Elephant-To-do
+# Elephant To-do
 Projeto de uma To-do dinâmica.  Nesse projeto foi utilizado HTML, CSS e javaScript.
 
 The images used in this project belong to The Different Folk. 
